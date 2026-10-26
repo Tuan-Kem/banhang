@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|d:\\tai_lieu\\2026-2027\\hk1\\wep_aspx\\demo_wep\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|solutionrelative:contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|d:\\tai_lieu\\2026-2027\\hk1\\wep_aspx\\demo_wep\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|d:\\tai_lieu\\2026-2027\\hk1\\wep_aspx\\demo_wep\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|d:\\tai_lieu\\2026-2027\\hk1\\wep_aspx\\demo_wep\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|d:\\tai_lieu\\2026-2027\\hk1\\wep_aspx\\demo_wep\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|d:\\tai_lieu\\2026-2027\\hk1\\wep_aspx\\demo_wep\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E946127B-91A3-49FE-BFEB-1A2899200788}|demo_wep.csproj|solutionrelative:content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Contact.aspx.cs",
+              "ToolTip": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Contact.aspx.cs*",
+              "RelativeToolTip": "Contact.aspx.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:44:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Content\\Site.css",
+              "ToolTip": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Content\\Site.css",
+              "RelativeToolTip": "Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-26T02:59:07.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-26T02:47:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-26T02:26:04.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-26T02:15:53.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\Tai_Lieu\\2026-2027\\HK1\\wep_aspx\\demo_wep\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-26T02:15:42.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
